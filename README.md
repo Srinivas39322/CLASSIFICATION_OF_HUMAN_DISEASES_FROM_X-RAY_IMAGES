@@ -1,4 +1,4 @@
-### Classification of Human Diseases from X-Ray Images 🌐📷
+### Classification Of Human Diseases From X-Ray Images 🌐📷
 
 ---
 
